@@ -242,7 +242,7 @@ if($_POST['insert'])
        echo "<script>alert('data inserted into database');</script>";
        ?>
        
-       <meta http-equiv = "refresh" content = "0; url = http://localhost/crud/admin_panel.php" />
+       <meta http-equiv = "refresh" content = "0; url = http://localhost/Grocery_application/admin_panel.php" />
 
        <?php
       }

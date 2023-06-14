@@ -30,7 +30,7 @@ if($_POST['insert'])
        echo "<script>alert('data inserted into database');</script>";
        ?>
        
-       <meta http-equiv = "refresh" content = "0; url = http://localhost/crud/display2.php" />
+       <meta http-equiv = "refresh" content = "0; url = http://localhost/Grocery_application/display2.php" />
 
        <?php
       }

@@ -43,7 +43,7 @@ if($_POST['login'])
         else
         {
             ?>
-            <meta http-equiv = "refresh" content = "0; url = http://localhost/crud/page.php />
+            <meta http-equiv = "refresh" content = "0; url = http://localhost/Grocery_application/page.php />
 
             <?php
         }
@@ -51,7 +51,7 @@ if($_POST['login'])
     else
     {
         ?>
-            <meta http-equiv = "refresh" content = "0; url = http://localhost/crud/page.php />
+            <meta http-equiv = "refresh" content = "0; url = http://localhost/Grocery_application/page.php />
 
             <?php
     }    
@@ -60,7 +60,7 @@ else
 {
     echo "you gonna succed";
     ?>
-       <meta http-equiv = "refresh" content = "0; url = http://localhost/crud/page.php />
+       <meta http-equiv = "refresh" content = "0; url = http://localhost/Grocery_application/page.php />
 
        <?php
 }
